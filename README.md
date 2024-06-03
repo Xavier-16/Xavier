@@ -1,4 +1,4 @@
-# Ola, boas vimdas ao meu perfil 😎😎
+# Ola, boas vindas ao meu perfil 😎😎
 Meu nome é Vinicius Xavier 
 - Estou estudando pelo  [Alura] (https://www.alura.com.br)
 - Estou me desevolvendo na linguangem JavaScript 
